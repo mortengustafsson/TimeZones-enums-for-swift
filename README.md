@@ -24,7 +24,7 @@ Middelfart:
 
     let middelfartTimeZone = NSTimeZone(name: .Copenhagen.rawValue) 
     // Middelfart is a small town, with a funny name, in Denmark. 
-    // Middelfart is located in the same time zone as Copenhagen and therefore uses .Copenhagen as time zone name. 
+    // Middelfart is located in the same time zone as Copenhagen and therefore use .Copenhagen as time zone name. 
     
     
 GMT:

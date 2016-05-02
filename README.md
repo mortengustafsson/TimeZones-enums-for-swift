@@ -1,8 +1,8 @@
 # TimeZones-enums-for-swift
 Swift: Enums for Time Zone names.
 
-Add this enum into you project when working with Time Zone names. Instead of writing ex. "Europe/London" you can just write TimeZone.London or just .London.
-This Enum will help prevent typos, and uses Xcode's Auto-completion. 
+Add this enum into you project when working with Time Zone names. Instead of writing ex. "Europe/London" you can just write TimeZones.London or just .London.
+Using TimeZones will help you prevent typos, and names are easily and quickly found with help from Xcode's Auto-completion. 
 
 Examples:  
 

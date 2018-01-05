@@ -5,7 +5,7 @@ Add this file into you project when working with Time Zones. Instead of writing 
 
 Using TimeZones will help you prevent typos, and names are easily and quickly found with help from Xcode's Auto-completion. 
 
-Examples:  
+**Examples:**
 
 London:
 
